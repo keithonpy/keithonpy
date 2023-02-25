@@ -1,4 +1,4 @@
-### Hi there 👋 this is Keith.
+### Hi there 👋 This is Keith.
 
 <!--
 **keithonpy/keithonpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
