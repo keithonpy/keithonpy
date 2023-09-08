@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ** Financial Mathematics and Algorithmic Trading **
 * [Market Making algorithm](https://github.com/keithonpy/Market_Making)
-* [Option pricing in Black-Scholes](https://github.com/keithonpy/Option_Pricing_of_BSMS)
+* [Option pricing in Black-Scholes model with Markovian Switching](https://github.com/keithonpy/Option_Pricing_of_BSMS)
 
 
 
