@@ -20,7 +20,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ** **Data Science and Machine Learning** **
 * [Fashion Image analysis](https://github.com/keithonpy/FashionMNIST_analysis)
 
-
+** **Scientific Computing** **
+* [Radioactive Decay](https://github.com/keithonpy/Scientific_Computing/tree/main/1.%20Radioactive%20Decay)
 
 
 ### Socials
