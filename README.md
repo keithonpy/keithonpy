@@ -17,6 +17,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * [Market Making algorithm](https://github.com/keithonpy/Market_Making)
 * [Option pricing in Black-Scholes model with Markovian Switching](https://github.com/keithonpy/Option_Pricing_of_BSMS)
 
+** **Data Science and Machine Learning** **
+* [Fashion Image analysis](https://github.com/keithonpy/FashionMNIST_analysis)
+
 
 
 
