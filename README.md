@@ -23,6 +23,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ** **Scientific Computing** **
 * [Radioactive Decay](https://github.com/keithonpy/Scientific_Computing/tree/main/1.%20Radioactive%20Decay)
 
+** **Data Analysis** **
+* [G2M insight for cab company investment](https://github.com/keithonpy/G2M_cab_inv_analysis)
+
 
 ### Socials
 
