@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * :mortar_board: I'm a recent data science and machine learning graduate 
 * 🌍  I'm based in United Kingdom
-* 🧠  I'm learning NLP and Reinforcement learning
+* 🧠  I'm now learning NLP and Reinforcement learning
 ### Skills
 
 <p align="left">
