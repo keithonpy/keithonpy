@@ -19,6 +19,7 @@ Hi! My name is Keith Tang
 
 ** **Data Science and Machine Learning** **
 * [Fashion Image analysis](https://github.com/keithonpy/FashionMNIST_analysis)
+* [Handwritten digits analysis](https://github.com/keithonpy/MNIST_analysis)
 
 ** **Scientific Computing** **
 * [Radioactive Decay](https://github.com/keithonpy/Scientific_Computing/tree/main/1.%20Radioactive%20Decay)
