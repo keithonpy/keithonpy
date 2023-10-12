@@ -18,6 +18,7 @@ Hi! My name is Keith Tang
 * [Option pricing in Black-Scholes model with Markovian Switching](https://github.com/keithonpy/Option_Pricing_of_BSMS)
 
 ** **Data Science and Machine Learning** **
+* [Product Reviews Analysis](https://github.com/keithonpy/Automatic_Review_Analyser)
 * [Fashion Image analysis](https://github.com/keithonpy/FashionMNIST_analysis)
 * [Handwritten digits analysis](https://github.com/keithonpy/MNIST_analysis)
 
