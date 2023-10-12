@@ -29,6 +29,9 @@ Hi! My name is Keith Tang
 
 ** **Data Analysis** **
 * [G2M insight for cab company investment](https://github.com/keithonpy/G2M_cab_inv_analysis)
+ 
+** **Software Development** **
+* [Bookstore inventory](https://github.com/keithonpy/bookstore_inventory)
 
 
 ### Socials
