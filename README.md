@@ -2,9 +2,13 @@ Hi there :smile:! Welcome to Keith's Github
 ==================================================================================================================================
 
 
-* :mortar_board: I'm a recent data science and machine learning graduate 
-* 🌍  I'm based in United Kingdom
-* 🧠  I'm now learning NLP and Reinforcement learning
+* 🦾 I have strong data science and artificial intelligence background and now I am working as a Big Data Engineer.
+* 🛠 My skillset includes Data Warehousing, ETL, Data Analysis, Data Visualization, Machine Learning and Deep Learning etc.
+* 💭 Currently I'm working on projects in algotrading
+* 💻 I'm focusing on expanding my knowledge in Computer Vision and Reinforcement learning.
+* 💡 I'm a curious person who enjoys exploring and learning new technologies.
+* 🚶 In my daily life, I am a film lover and a consistent thinker about how data could change the world!
+* 
 ### Skills
 
 <p align="left">
