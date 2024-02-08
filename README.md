@@ -1,4 +1,4 @@
-Hi! My name is Keith Tang
+Hi there :smile:! Welcome to Keith's Github
 ==================================================================================================================================
 
 
@@ -22,7 +22,7 @@ Hi! My name is Keith Tang
 * [Fashion Image analysis](https://github.com/keithonpy/FashionMNIST_analysis)
 * [Handwritten digits analysis](https://github.com/keithonpy/MNIST_analysis)
 
-** **Sentiment Analysis**
+** **Sentiment Analysis** **
 * [Product Reviews Analysis](https://github.com/keithonpy/Automatic_Review_Analyser)
 
 ** **Scientific Computing** **
