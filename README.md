@@ -17,10 +17,13 @@ Hi! My name is Keith Tang
 * [Market Making algorithm](https://github.com/keithonpy/Market_Making)
 * [Option pricing in Black-Scholes model with Markovian Switching](https://github.com/keithonpy/Option_Pricing_of_BSMS)
 
-** **Data Science and Machine Learning** **
-* [Product Reviews Analysis](https://github.com/keithonpy/Automatic_Review_Analyser)
+** **Image Processing** **
+
 * [Fashion Image analysis](https://github.com/keithonpy/FashionMNIST_analysis)
 * [Handwritten digits analysis](https://github.com/keithonpy/MNIST_analysis)
+
+** **Sentiment Analysis**
+* [Product Reviews Analysis](https://github.com/keithonpy/Automatic_Review_Analyser)
 
 ** **Scientific Computing** **
 * [Radioactive Decay](https://github.com/keithonpy/Scientific_Computing/tree/main/1.%20Radioactive%20Decay)
