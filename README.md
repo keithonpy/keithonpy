@@ -8,7 +8,7 @@ Hi there :smile:! Welcome to Keith's Github
 * 💻 I'm focusing on expanding my knowledge in Computer Vision and Reinforcement learning.
 * 💡 I'm a curious person who enjoys exploring and learning new technologies.
 * 🚶 In my daily life, I am a film lover and a consistent thinker about how data could change the world!
-* 
+ 
 ### Skills
 
 <p align="left">
